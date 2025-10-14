@@ -64,3 +64,8 @@ _ReSharper*/
 
 # Publish profiles
 Properties/PublishProfiles/
+
+#dB
+*.db
+*.sqbpro
+*.sql
