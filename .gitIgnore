@@ -69,3 +69,6 @@ Properties/PublishProfiles/
 *.db
 *.sqbpro
 *.sql
+
+#Config
+*.config
