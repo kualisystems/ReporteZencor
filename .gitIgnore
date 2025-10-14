@@ -1,0 +1,66 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+publish/
+*.exe
+*.dll
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio folders
+.vs/
+.vscode/
+.idea/
+
+# Backup / temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+~$*
+
+# NuGet Packages
+*.nupkg
+packages/
+.nuget/
+
+# Configuration files (optional)
+appsettings.json
+appsettings.Development.json
+secrets.json
+.env
+.env.json
+*.Secret.json
+
+# Keep safe example
+!appsettings.example.json
+
+# Installer or publish output
+*.msi
+*.zip
+*.publish.xml
+publish/
+
+# Test and coverage results
+*.coverage
+*.coveragexml
+TestResult*/
+*.trx
+
+# ReSharper / Rider
+_ReSharper*/
+*.DotSettings.user
+
+# SQL / data cache
+*.mdf
+*.ldf
+
+# Publish profiles
+Properties/PublishProfiles/
